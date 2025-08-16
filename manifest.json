@@ -1,0 +1,9 @@
+{
+  "name": "9th CST",
+  "short_name": "9thCST",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "9th CST field operations app",
+  "icons": []
+}
